@@ -1,16 +1,29 @@
-### Hi there 👋
+## Que bom te ver aqui! 🌎 [Português](https://github.com/YuSoSerius/readme/blob/main/README.txt)
 
-<!--
-**YuSoSerius/YuSoSerius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Pedro Henrique Sant'Anna Oliveira, atualmente perseguindo meu bacharelado em Engenharia de Computação no [Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/).
+Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
+🔗
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<img align="right" height="220" width="330" 
 
-Here are some ideas to get you started:
+```java
+public static void main(String args[]){
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Dev me = new Dev();
+
+    me.name = "Pedro Oliveira";
+    me.years = 19;
+    me.nicknames = YuSoSerius";
+    me.applications = "Java, C, CSS, HTML, SQL,
+                    JavaScript, TypeScript, Python";
+    me.tools = "Git, VSCode, Eclipse, MySQL, PostgreeSql,
+                    Apache Netbeans, Spring Boot, Code Blocks";
+    me.skills = "FullStack, SoftSkills";
+    me.languages = "English, Spanish, Portuguese, German, French"
+}
+```
+
+## 💻 Areas de conhecimento
+
+
+## ⚙ Estatísticas
