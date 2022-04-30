@@ -1,4 +1,4 @@
-## Que bom te ver aqui! 🌎 [Português](https://github.com/YuSoSerius/readme/blob/main/README.txt)
+## Que bom te ver aqui! 🌎 [Português](https://github.com/YuSoSerius/YuSoSerius/blob/main/README.md)
 
 Eu me chamo Pedro Henrique Sant'Anna Oliveira, atualmente perseguindo meu bacharelado em Engenharia de Computação no [Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/).
 Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
