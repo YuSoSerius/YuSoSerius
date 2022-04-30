@@ -4,7 +4,6 @@ Eu me chamo Pedro Henrique Sant'Anna Oliveira, atualmente perseguindo meu bachar
 Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
 🔗
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-<img align="right" height="220" width="330" 
 
 ```java
 public static void main(String args[]){
